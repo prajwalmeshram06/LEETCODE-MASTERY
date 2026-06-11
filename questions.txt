@@ -1,3 +1,4 @@
 From 10th of June 2026
 Starting to upload every single day's LeetCode questions I've done.
 June 10th => LT 3248, 1629
+June 11th => LT 2553
