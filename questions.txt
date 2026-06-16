@@ -6,4 +6,4 @@ June 12th => LT 786
 June 13th => LT 977, 3838,
 June 14th => LT 1961
 June 15th => LT 2100
-June 16th => LT 3612
+June 16th => LT 3612 (really good question memory allocation + stack basics)
