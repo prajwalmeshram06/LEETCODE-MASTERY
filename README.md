@@ -16,6 +16,7 @@ Everyday Solved leetcode questions will be here
 | ------- |
 | [0213-house-robber-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0229-majority-element-ii) |
+| [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0229-majority-element-ii) |
+| [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting
 |  |
 | ------- |
@@ -36,4 +38,8 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0229-majority-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
