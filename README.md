@@ -44,4 +44,12 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
