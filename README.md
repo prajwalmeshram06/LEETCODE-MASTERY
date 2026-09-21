@@ -45,11 +45,13 @@ Everyday Solved leetcode questions will be here
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0316-remove-duplicate-letters) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0316-remove-duplicate-letters) |
 | [3498-reverse-degree-of-a-string](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -59,4 +61,12 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+## Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
