@@ -14,6 +14,7 @@ Everyday Solved leetcode questions will be here
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0162-find-peak-element) |
 | [0213-house-robber-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
@@ -104,4 +105,8 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1029-two-city-scheduling) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
