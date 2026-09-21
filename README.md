@@ -17,6 +17,7 @@ Everyday Solved leetcode questions will be here
 | [0213-house-robber-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
 | [1200-minimum-absolute-difference](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1200-minimum-absolute-difference) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -36,6 +37,7 @@ Everyday Solved leetcode questions will be here
 | ------- |
 | [0229-majority-element-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
 | [1200-minimum-absolute-difference](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1200-minimum-absolute-difference) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -54,6 +56,7 @@ Everyday Solved leetcode questions will be here
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
