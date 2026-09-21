@@ -17,6 +17,7 @@ Everyday Solved leetcode questions will be here
 | [0213-house-robber-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0229-majority-element-ii) |
 | [1200-minimum-absolute-difference](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1200-minimum-absolute-difference) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@ Everyday Solved leetcode questions will be here
 | ------- |
 | [0229-majority-element-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0229-majority-element-ii) |
 | [1200-minimum-absolute-difference](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1200-minimum-absolute-difference) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting
 |  |
@@ -43,6 +45,7 @@ Everyday Solved leetcode questions will be here
 ## Greedy
 |  |
 | ------- |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
 ## String
 |  |
@@ -52,4 +55,8 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3498-reverse-degree-of-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
