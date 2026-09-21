@@ -19,6 +19,7 @@ Everyday Solved leetcode questions will be here
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
+| [1029-two-city-scheduling](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1200-minimum-absolute-difference) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
@@ -39,6 +40,7 @@ Everyday Solved leetcode questions will be here
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
+| [1029-two-city-scheduling](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1200-minimum-absolute-difference) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
@@ -58,6 +60,7 @@ Everyday Solved leetcode questions will be here
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
+| [1029-two-city-scheduling](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
@@ -91,4 +94,12 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
