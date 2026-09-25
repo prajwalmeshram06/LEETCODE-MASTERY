@@ -29,6 +29,7 @@ Everyday Solved leetcode questions will be here
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0091-decode-ways) |
 | [0213-house-robber-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
@@ -71,6 +72,7 @@ Everyday Solved leetcode questions will be here
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0091-decode-ways) |
 | [0316-remove-duplicate-letters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3498-reverse-degree-of-a-string) |
