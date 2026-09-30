@@ -15,6 +15,7 @@ Everyday Solved leetcode questions will be here
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0064-minimum-path-sum) |
 | [0162-find-peak-element](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0162-find-peak-element) |
 | [0213-house-robber-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0213-house-robber-ii) |
@@ -33,6 +34,7 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0091-decode-ways) |
 | [0213-house-robber-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0213-house-robber-ii) |
@@ -129,6 +131,7 @@ Everyday Solved leetcode questions will be here
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0064-minimum-path-sum) |
 ## Longest Common Subsequence
 |  |
