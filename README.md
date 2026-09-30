@@ -36,6 +36,7 @@ Everyday Solved leetcode questions will be here
 | [0213-house-robber-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
 | [0740-delete-and-earn](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0740-delete-and-earn) |
+| [1143-longest-common-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Everyday Solved leetcode questions will be here
 | [0091-decode-ways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0091-decode-ways) |
 | [0316-remove-duplicate-letters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -126,4 +128,8 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0064-minimum-path-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
