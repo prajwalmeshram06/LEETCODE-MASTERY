@@ -7,6 +7,7 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Everyday Solved leetcode questions will be here
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0091-decode-ways) |
 | [0213-house-robber-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0213-house-robber-ii) |
@@ -132,4 +134,8 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1143-longest-common-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
