@@ -41,6 +41,7 @@ Everyday Solved leetcode questions will be here
 | [0120-triangle](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
+| [0516-longest-palindromic-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0516-longest-palindromic-subsequence) |
 | [0740-delete-and-earn](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0740-delete-and-earn) |
 | [1143-longest-common-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
@@ -87,6 +88,7 @@ Everyday Solved leetcode questions will be here
 | [0020-valid-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0091-decode-ways) |
 | [0316-remove-duplicate-letters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0316-remove-duplicate-letters) |
+| [0516-longest-palindromic-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0516-longest-palindromic-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
