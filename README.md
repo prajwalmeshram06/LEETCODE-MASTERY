@@ -84,6 +84,7 @@ Everyday Solved leetcode questions will be here
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0091-decode-ways) |
 | [0316-remove-duplicate-letters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -102,6 +103,7 @@ Everyday Solved leetcode questions will be here
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -129,6 +131,7 @@ Everyday Solved leetcode questions will be here
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
 |  |
