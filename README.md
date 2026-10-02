@@ -32,6 +32,7 @@ Everyday Solved leetcode questions will be here
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
 | [2611-mice-and-cheese](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2611-mice-and-cheese) |
+| [3693-climbing-stairs-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
@@ -48,6 +49,7 @@ Everyday Solved leetcode questions will be here
 | [0740-delete-and-earn](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0740-delete-and-earn) |
 | [1035-uncrossed-lines](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1143-longest-common-subsequence) |
+| [3693-climbing-stairs-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
