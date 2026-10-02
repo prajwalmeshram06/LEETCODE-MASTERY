@@ -15,6 +15,7 @@ Everyday Solved leetcode questions will be here
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0120-triangle) |
@@ -37,6 +38,7 @@ Everyday Solved leetcode questions will be here
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0064-minimum-path-sum) |
@@ -80,6 +82,7 @@ Everyday Solved leetcode questions will be here
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
