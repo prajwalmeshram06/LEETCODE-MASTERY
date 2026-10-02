@@ -31,6 +31,7 @@ Everyday Solved leetcode questions will be here
 | [1029-two-city-scheduling](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1029-two-city-scheduling) |
 | [1035-uncrossed-lines](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1035-uncrossed-lines) |
 | [1200-minimum-absolute-difference](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1200-minimum-absolute-difference) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1288-remove-covered-intervals) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
@@ -55,6 +56,7 @@ Everyday Solved leetcode questions will be here
 | [0740-delete-and-earn](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0740-delete-and-earn) |
 | [1035-uncrossed-lines](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1143-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1262-greatest-sum-divisible-by-three) |
 | [3693-climbing-stairs-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
@@ -71,6 +73,7 @@ Everyday Solved leetcode questions will be here
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1200-minimum-absolute-difference) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1288-remove-covered-intervals) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
@@ -95,6 +98,7 @@ Everyday Solved leetcode questions will be here
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
 | [2611-mice-and-cheese](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2611-mice-and-cheese) |
