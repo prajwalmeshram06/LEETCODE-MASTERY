@@ -42,6 +42,7 @@ Everyday Solved leetcode questions will be here
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0063-unique-paths-ii) |
@@ -109,6 +110,7 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0091-decode-ways) |
 | [0316-remove-duplicate-letters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0516-longest-palindromic-subsequence) |
@@ -158,6 +160,7 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
 |  |
@@ -179,4 +182,8 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0646-maximum-length-of-pair-chain) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
