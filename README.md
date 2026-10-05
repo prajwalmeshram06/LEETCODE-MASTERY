@@ -6,6 +6,7 @@ Everyday Solved leetcode questions will be here
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0062-unique-paths) |
 | [0343-integer-break](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0343-integer-break) |
