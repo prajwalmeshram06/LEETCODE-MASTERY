@@ -137,6 +137,7 @@ Everyday Solved leetcode questions will be here
 | [0516-longest-palindromic-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -160,6 +161,7 @@ Everyday Solved leetcode questions will be here
 | [0032-longest-valid-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -192,6 +194,7 @@ Everyday Solved leetcode questions will be here
 | [0022-generate-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Matrix
 |  |
