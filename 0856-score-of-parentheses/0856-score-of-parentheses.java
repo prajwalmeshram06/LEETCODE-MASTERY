@@ -3,12 +3,12 @@ class Solution {
         Stack<Integer> st = new Stack<>();
 
         int n = s.length();
-        int current = 0;
+        
         for (int i = 0; i < n; i++) {
             if (s.charAt(i) == '(')
                 st.push(0);
             else {
-                current = 0;
+                int current = 0;
                 while (st.peek() != 0) {
                     current += st.pop();
                 }
