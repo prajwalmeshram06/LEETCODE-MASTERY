@@ -28,6 +28,7 @@ Everyday Solved leetcode questions will be here
 | [0213-house-robber-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0493-reverse-pairs](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0493-reverse-pairs) |
@@ -122,6 +123,7 @@ Everyday Solved leetcode questions will be here
 | [0055-jump-game](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0646-maximum-length-of-pair-chain) |
@@ -230,6 +232,7 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0334-increasing-triplet-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0646-maximum-length-of-pair-chain) |
 | [1626-best-team-with-no-conflicts](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1626-best-team-with-no-conflicts) |
 ## Backtracking
