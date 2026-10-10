@@ -43,6 +43,7 @@ Everyday Solved leetcode questions will be here
 | [1288-remove-covered-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1626-best-team-with-no-conflicts](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1626-best-team-with-no-conflicts) |
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
 | [2611-mice-and-cheese](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2611-mice-and-cheese) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -77,6 +78,7 @@ Everyday Solved leetcode questions will be here
 | [1143-longest-common-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1626-best-team-with-no-conflicts](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1626-best-team-with-no-conflicts) |
 | [2370-longest-ideal-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2370-longest-ideal-subsequence) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3693-climbing-stairs-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3693-climbing-stairs-ii) |
@@ -99,6 +101,7 @@ Everyday Solved leetcode questions will be here
 | [1262-greatest-sum-divisible-by-three](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1288-remove-covered-intervals) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1626-best-team-with-no-conflicts](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1626-best-team-with-no-conflicts) |
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
 | [2611-mice-and-cheese](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2611-mice-and-cheese) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -222,6 +225,7 @@ Everyday Solved leetcode questions will be here
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0646-maximum-length-of-pair-chain) |
+| [1626-best-team-with-no-conflicts](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1626-best-team-with-no-conflicts) |
 ## Backtracking
 |  |
 | ------- |
