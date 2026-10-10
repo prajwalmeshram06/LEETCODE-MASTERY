@@ -54,6 +54,7 @@ Everyday Solved leetcode questions will be here
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0055-jump-game) |
@@ -136,6 +137,7 @@ Everyday Solved leetcode questions will be here
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0032-longest-valid-parentheses) |
@@ -180,6 +182,7 @@ Everyday Solved leetcode questions will be here
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0005-longest-palindromic-substring) |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
 ## Hungarian Algorithm
 |  |
@@ -270,4 +273,8 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
