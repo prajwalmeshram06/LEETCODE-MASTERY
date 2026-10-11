@@ -35,6 +35,7 @@ Everyday Solved leetcode questions will be here
 | [0646-maximum-length-of-pair-chain](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0740-delete-and-earn) |
+| [0845-longest-mountain-in-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
 | [0983-minimum-cost-for-tickets](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0983-minimum-cost-for-tickets) |
@@ -78,6 +79,7 @@ Everyday Solved leetcode questions will be here
 | [0678-valid-parenthesis-string](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0740-delete-and-earn) |
+| [0845-longest-mountain-in-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0983-minimum-cost-for-tickets) |
 | [1035-uncrossed-lines](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1035-uncrossed-lines) |
@@ -188,6 +190,7 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0005-longest-palindromic-substring) |
+| [0845-longest-mountain-in-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0845-longest-mountain-in-array) |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
 ## Hungarian Algorithm
 |  |
@@ -286,6 +289,7 @@ Everyday Solved leetcode questions will be here
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0845-longest-mountain-in-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prefix Sum
 |  |
