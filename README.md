@@ -46,6 +46,7 @@ Everyday Solved leetcode questions will be here
 | [1029-two-city-scheduling](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1029-two-city-scheduling) |
 | [1035-uncrossed-lines](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1043-partition-array-for-maximum-sum) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1288-remove-covered-intervals) |
@@ -240,6 +241,7 @@ Everyday Solved leetcode questions will be here
 | [0063-unique-paths-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0931-minimum-falling-path-sum) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Longest Common Subsequence
@@ -316,4 +318,8 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2100-find-good-days-to-rob-the-bank) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
