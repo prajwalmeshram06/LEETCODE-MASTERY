@@ -61,6 +61,7 @@ Everyday Solved leetcode questions will be here
 | [3693-climbing-stairs-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3987-minimum-total-cost-to-process-all-elements) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Everyday Solved leetcode questions will be here
 | [0740-delete-and-earn](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0740-delete-and-earn) |
 | [1027-longest-arithmetic-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1027-longest-arithmetic-subsequence) |
 | [2370-longest-ideal-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2370-longest-ideal-subsequence) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Sorting
 |  |
 | ------- |
