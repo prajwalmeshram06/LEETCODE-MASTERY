@@ -40,6 +40,7 @@ Everyday Solved leetcode questions will be here
 | [0718-maximum-length-of-repeated-subarray](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0740-delete-and-earn) |
 | [0845-longest-mountain-in-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0845-longest-mountain-in-array) |
+| [0881-boats-to-save-people](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
 | [0983-minimum-cost-for-tickets](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0983-minimum-cost-for-tickets) |
@@ -120,6 +121,7 @@ Everyday Solved leetcode questions will be here
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0646-maximum-length-of-pair-chain) |
+| [0881-boats-to-save-people](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1200-minimum-absolute-difference) |
@@ -152,6 +154,7 @@ Everyday Solved leetcode questions will be here
 | [0624-maximum-distance-in-arrays](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0678-valid-parenthesis-string) |
+| [0881-boats-to-save-people](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1029-two-city-scheduling) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -211,6 +214,7 @@ Everyday Solved leetcode questions will be here
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0005-longest-palindromic-substring) |
 | [0845-longest-mountain-in-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0845-longest-mountain-in-array) |
+| [0881-boats-to-save-people](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
 ## Hungarian Algorithm
 |  |
@@ -337,4 +341,8 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
