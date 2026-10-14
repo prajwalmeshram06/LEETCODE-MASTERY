@@ -34,6 +34,7 @@ Everyday Solved leetcode questions will be here
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0493-reverse-pairs](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0493-reverse-pairs) |
+| [0624-maximum-distance-in-arrays](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -148,6 +149,7 @@ Everyday Solved leetcode questions will be here
 | [0376-wiggle-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0624-maximum-distance-in-arrays](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0678-valid-parenthesis-string) |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
