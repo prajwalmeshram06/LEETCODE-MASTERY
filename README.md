@@ -63,6 +63,7 @@ Everyday Solved leetcode questions will be here
 | [2778-sum-of-squares-of-special-elements](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3693-climbing-stairs-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3987-minimum-total-cost-to-process-all-elements) |
@@ -118,6 +119,7 @@ Everyday Solved leetcode questions will be here
 | [2370-longest-ideal-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2370-longest-ideal-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Sorting
 |  |
@@ -137,6 +139,7 @@ Everyday Solved leetcode questions will be here
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
 | [2126-destroying-asteroids](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2126-destroying-asteroids) |
 | [2611-mice-and-cheese](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2611-mice-and-cheese) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
