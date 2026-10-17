@@ -279,6 +279,7 @@ Everyday Solved leetcode questions will be here
 | ------- |
 | [0022-generate-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0022-generate-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0357-count-numbers-with-unique-digits) |
+| [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -338,12 +339,14 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
 ## Union-Find
 |  |
@@ -353,6 +356,7 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
 ## Timsort
 |  |
@@ -370,4 +374,8 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
