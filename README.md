@@ -45,6 +45,7 @@ Everyday Solved leetcode questions will be here
 | [0931-minimum-falling-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
 | [0983-minimum-cost-for-tickets](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0983-minimum-cost-for-tickets) |
+| [0994-rotting-oranges](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0994-rotting-oranges) |
 | [1027-longest-arithmetic-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1027-longest-arithmetic-subsequence) |
 | [1029-two-city-scheduling](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1029-two-city-scheduling) |
 | [1035-uncrossed-lines](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1035-uncrossed-lines) |
@@ -258,6 +259,7 @@ Everyday Solved leetcode questions will be here
 | [0064-minimum-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0200-number-of-islands) |
 | [0931-minimum-falling-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -347,6 +349,7 @@ Everyday Solved leetcode questions will be here
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
+| [0994-rotting-oranges](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Depth-First Search
 |  |
