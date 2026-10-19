@@ -60,6 +60,7 @@ Everyday Solved leetcode questions will be here
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1626-best-team-with-no-conflicts](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1626-best-team-with-no-conflicts) |
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2126-destroying-asteroids](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2126-destroying-asteroids) |
 | [2611-mice-and-cheese](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2611-mice-and-cheese) |
@@ -141,6 +142,7 @@ Everyday Solved leetcode questions will be here
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1626-best-team-with-no-conflicts](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1626-best-team-with-no-conflicts) |
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2126-destroying-asteroids) |
 | [2611-mice-and-cheese](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2611-mice-and-cheese) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -245,6 +247,7 @@ Everyday Solved leetcode questions will be here
 | [0493-reverse-pairs](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1027-longest-arithmetic-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1027-longest-arithmetic-subsequence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bracket Sequences
 |  |
 | ------- |
