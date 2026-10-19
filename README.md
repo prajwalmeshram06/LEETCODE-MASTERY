@@ -353,6 +353,7 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0733-flood-fill) |
@@ -365,6 +366,7 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0733-flood-fill) |
@@ -380,6 +382,7 @@ Everyday Solved leetcode questions will be here
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
@@ -391,6 +394,7 @@ Everyday Solved leetcode questions will be here
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
 |  |
@@ -403,5 +407,6 @@ Everyday Solved leetcode questions will be here
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
