@@ -24,6 +24,7 @@ Everyday Solved leetcode questions will be here
 | [0064-minimum-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0213-house-robber-ii) |
@@ -267,6 +268,7 @@ Everyday Solved leetcode questions will be here
 | ------- |
 | [0063-unique-paths-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0542-01-matrix) |
@@ -360,6 +362,7 @@ Everyday Solved leetcode questions will be here
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0210-course-schedule-ii) |
@@ -378,6 +381,7 @@ Everyday Solved leetcode questions will be here
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0210-course-schedule-ii) |
@@ -391,6 +395,7 @@ Everyday Solved leetcode questions will be here
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
