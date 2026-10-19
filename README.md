@@ -389,6 +389,7 @@ Everyday Solved leetcode questions will be here
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
 ## Timsort
 |  |
@@ -413,4 +414,5 @@ Everyday Solved leetcode questions will be here
 | ------- |
 | [0207-course-schedule](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
