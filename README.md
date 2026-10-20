@@ -31,6 +31,7 @@ Everyday Solved leetcode questions will be here
 | [0229-majority-element-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
@@ -95,6 +96,7 @@ Everyday Solved leetcode questions will be here
 | [0213-house-robber-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0376-wiggle-subsequence) |
@@ -271,6 +273,7 @@ Everyday Solved leetcode questions will be here
 | [0064-minimum-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0733-flood-fill) |
@@ -368,6 +371,7 @@ Everyday Solved leetcode questions will be here
 | [0200-number-of-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
@@ -389,6 +393,7 @@ Everyday Solved leetcode questions will be here
 | [0200-number-of-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0733-flood-fill) |
@@ -411,6 +416,7 @@ Everyday Solved leetcode questions will be here
 | ------- |
 | [0207-course-schedule](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
@@ -428,6 +434,7 @@ Everyday Solved leetcode questions will be here
 | ------- |
 | [0207-course-schedule](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Kosaraju's Algorithm
@@ -442,6 +449,7 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -449,4 +457,8 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
