@@ -79,6 +79,7 @@ Everyday Solved leetcode questions will be here
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3987-minimum-total-cost-to-process-all-elements) |
@@ -295,6 +296,7 @@ Everyday Solved leetcode questions will be here
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -401,6 +403,7 @@ Everyday Solved leetcode questions will be here
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -421,6 +424,7 @@ Everyday Solved leetcode questions will be here
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -431,6 +435,7 @@ Everyday Solved leetcode questions will be here
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
