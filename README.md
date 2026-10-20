@@ -397,6 +397,7 @@ Everyday Solved leetcode questions will be here
 | [1765-map-of-highest-peak](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -417,6 +418,7 @@ Everyday Solved leetcode questions will be here
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -427,6 +429,7 @@ Everyday Solved leetcode questions will be here
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -440,6 +443,7 @@ Everyday Solved leetcode questions will be here
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
