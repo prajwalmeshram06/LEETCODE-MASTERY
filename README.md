@@ -42,6 +42,7 @@ Everyday Solved leetcode questions will be here
 | [0624-maximum-distance-in-arrays](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0740-delete-and-earn) |
@@ -278,6 +279,7 @@ Everyday Solved leetcode questions will be here
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0994-rotting-oranges) |
@@ -378,6 +380,7 @@ Everyday Solved leetcode questions will be here
 | [0463-island-perimeter](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
@@ -400,6 +403,7 @@ Everyday Solved leetcode questions will be here
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
@@ -414,6 +418,7 @@ Everyday Solved leetcode questions will be here
 | [0130-surrounded-regions](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
