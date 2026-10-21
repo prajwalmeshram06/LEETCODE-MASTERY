@@ -66,6 +66,7 @@ Everyday Solved leetcode questions will be here
 | [1289-minimum-falling-path-sum-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1626-best-team-with-no-conflicts](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1626-best-team-with-no-conflicts) |
+| [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
 | [1765-map-of-highest-peak](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -227,6 +228,7 @@ Everyday Solved leetcode questions will be here
 | ------- |
 | [0743-network-delay-time](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0743-network-delay-time) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [2611-mice-and-cheese](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2611-mice-and-cheese) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Stack
@@ -267,6 +269,7 @@ Everyday Solved leetcode questions will be here
 | [0493-reverse-pairs](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1027-longest-arithmetic-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1027-longest-arithmetic-subsequence) |
+| [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bracket Sequences
 |  |
@@ -296,6 +299,7 @@ Everyday Solved leetcode questions will be here
 | [1162-as-far-from-land-as-possible](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1162-as-far-from-land-as-possible) |
 | [1267-count-servers-that-communicate](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1267-count-servers-that-communicate) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -406,6 +410,7 @@ Everyday Solved leetcode questions will be here
 | [1162-as-far-from-land-as-possible](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1162-as-far-from-land-as-possible) |
 | [1267-count-servers-that-communicate](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1267-count-servers-that-communicate) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -435,6 +440,7 @@ Everyday Solved leetcode questions will be here
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1267-count-servers-that-communicate) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -452,6 +458,7 @@ Everyday Solved leetcode questions will be here
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
@@ -528,4 +535,5 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
