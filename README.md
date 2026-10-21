@@ -397,6 +397,7 @@ Everyday Solved leetcode questions will be here
 | [0785-is-graph-bipartite](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
+| [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -427,6 +428,7 @@ Everyday Solved leetcode questions will be here
 | [0785-is-graph-bipartite](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
+| [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1267-count-servers-that-communicate) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -444,6 +446,7 @@ Everyday Solved leetcode questions will be here
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1267-count-servers-that-communicate) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -460,6 +463,7 @@ Everyday Solved leetcode questions will be here
 | [0785-is-graph-bipartite](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
+| [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -509,8 +513,10 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
