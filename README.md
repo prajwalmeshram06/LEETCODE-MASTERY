@@ -117,6 +117,7 @@ Everyday Solved leetcode questions will be here
 | [0678-valid-parenthesis-string](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0740-delete-and-earn) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0845-longest-mountain-in-array) |
 | [0931-minimum-falling-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0983-minimum-cost-for-tickets) |
@@ -227,6 +228,7 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [2611-mice-and-cheese](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2611-mice-and-cheese) |
@@ -401,6 +403,7 @@ Everyday Solved leetcode questions will be here
 | [0733-flood-fill](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
@@ -434,6 +437,7 @@ Everyday Solved leetcode questions will be here
 | [0733-flood-fill](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
@@ -472,6 +476,7 @@ Everyday Solved leetcode questions will be here
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
@@ -515,6 +520,7 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Memoization
 |  |
