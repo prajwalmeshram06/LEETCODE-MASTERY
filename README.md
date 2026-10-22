@@ -83,6 +83,7 @@ Everyday Solved leetcode questions will be here
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3620-network-recovery-pathways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3620-network-recovery-pathways) |
 | [3693-climbing-stairs-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3987-minimum-total-cost-to-process-all-elements) |
@@ -134,6 +135,7 @@ Everyday Solved leetcode questions will be here
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2370-longest-ideal-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2370-longest-ideal-subsequence) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3620-network-recovery-pathways) |
 | [3693-climbing-stairs-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
@@ -234,6 +236,7 @@ Everyday Solved leetcode questions will be here
 | [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [2611-mice-and-cheese](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2611-mice-and-cheese) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3620-network-recovery-pathways) |
 ## Stack
 |  |
 | ------- |
@@ -274,6 +277,7 @@ Everyday Solved leetcode questions will be here
 | [1027-longest-arithmetic-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1027-longest-arithmetic-subsequence) |
 | [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3620-network-recovery-pathways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3620-network-recovery-pathways) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -489,6 +493,7 @@ Everyday Solved leetcode questions will be here
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3620-network-recovery-pathways) |
 ## Timsort
 |  |
 | ------- |
@@ -502,6 +507,7 @@ Everyday Solved leetcode questions will be here
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3620-network-recovery-pathways) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
@@ -525,6 +531,7 @@ Everyday Solved leetcode questions will be here
 | [0787-cheapest-flights-within-k-stops](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
 | ------- |
