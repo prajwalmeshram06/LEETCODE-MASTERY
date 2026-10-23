@@ -85,6 +85,7 @@ Everyday Solved leetcode questions will be here
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3620-network-recovery-pathways) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3693-climbing-stairs-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3987-minimum-total-cost-to-process-all-elements) |
@@ -580,4 +581,8 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1584-min-cost-to-connect-all-points) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
