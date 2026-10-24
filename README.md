@@ -85,6 +85,7 @@ Everyday Solved leetcode questions will be here
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3620-network-recovery-pathways) |
@@ -151,6 +152,7 @@ Everyday Solved leetcode questions will be here
 | [2370-longest-ideal-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2370-longest-ideal-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Sorting
@@ -283,6 +285,7 @@ Everyday Solved leetcode questions will be here
 | [1027-longest-arithmetic-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1027-longest-arithmetic-subsequence) |
 | [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3620-network-recovery-pathways) |
 ## Bracket Sequences
 |  |
@@ -484,6 +487,7 @@ Everyday Solved leetcode questions will be here
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -509,6 +513,7 @@ Everyday Solved leetcode questions will be here
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
 | [2924-find-champion-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2924-find-champion-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3620-network-recovery-pathways) |
 ## Timsort
 |  |
