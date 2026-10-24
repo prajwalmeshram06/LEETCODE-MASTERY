@@ -46,6 +46,7 @@ Everyday Solved leetcode questions will be here
 | [0718-maximum-length-of-repeated-subarray](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0740-delete-and-earn) |
+| [0778-swim-in-rising-water](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0778-swim-in-rising-water) |
 | [0845-longest-mountain-in-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0881-boats-to-save-people) |
 | [0931-minimum-falling-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0931-minimum-falling-path-sum) |
@@ -240,6 +241,7 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
@@ -285,6 +287,7 @@ Everyday Solved leetcode questions will be here
 | [0300-longest-increasing-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0778-swim-in-rising-water](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0778-swim-in-rising-water) |
 | [1027-longest-arithmetic-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1027-longest-arithmetic-subsequence) |
 | [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -311,6 +314,7 @@ Everyday Solved leetcode questions will be here
 | [0542-01-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
@@ -421,6 +425,7 @@ Everyday Solved leetcode questions will be here
 | [0695-max-area-of-island](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
@@ -458,6 +463,7 @@ Everyday Solved leetcode questions will be here
 | [0695-max-area-of-island](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
@@ -481,6 +487,7 @@ Everyday Solved leetcode questions will be here
 | [0200-number-of-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
@@ -577,6 +584,7 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -612,4 +620,8 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
