@@ -439,6 +439,7 @@ Everyday Solved leetcode questions will be here
 | [1267-count-servers-that-communicate](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1306-jump-game-iii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1765-map-of-highest-peak) |
@@ -474,6 +475,7 @@ Everyday Solved leetcode questions will be here
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1306-jump-game-iii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -495,6 +497,7 @@ Everyday Solved leetcode questions will be here
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1267-count-servers-that-communicate) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -516,6 +519,7 @@ Everyday Solved leetcode questions will be here
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
