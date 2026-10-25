@@ -75,6 +75,7 @@ Everyday Solved leetcode questions will be here
 | [1710-maximum-units-on-a-truck](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1710-maximum-units-on-a-truck) |
 | [1765-map-of-highest-peak](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2050-parallel-courses-iii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2050-parallel-courses-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2126-destroying-asteroids](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2126-destroying-asteroids) |
@@ -139,6 +140,7 @@ Everyday Solved leetcode questions will be here
 | [1289-minimum-falling-path-sum-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1626-best-team-with-no-conflicts](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1626-best-team-with-no-conflicts) |
+| [2050-parallel-courses-iii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2050-parallel-courses-iii) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2370-longest-ideal-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2370-longest-ideal-subsequence) |
@@ -529,6 +531,7 @@ Everyday Solved leetcode questions will be here
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1584-min-cost-to-connect-all-points) |
 | [1615-maximal-network-rank](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1615-maximal-network-rank) |
+| [2050-parallel-courses-iii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2050-parallel-courses-iii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -550,6 +553,7 @@ Everyday Solved leetcode questions will be here
 | [0210-course-schedule-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
+| [2050-parallel-courses-iii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2050-parallel-courses-iii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3620-network-recovery-pathways) |
@@ -568,6 +572,7 @@ Everyday Solved leetcode questions will be here
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2050-parallel-courses-iii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2050-parallel-courses-iii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Shortest Path
 |  |
