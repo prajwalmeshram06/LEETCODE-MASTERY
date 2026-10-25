@@ -1,9 +1,9 @@
 class Solution {
-    static {
-        for(int i = 0; i < 200; i++) {
-            minimumTime(0, new int[][]{{}}, new int[]{});
-        }
-    }
+    // static {
+    //     for(int i = 0; i < 200; i++) {
+    //         minimumTime(0, new int[][]{{}}, new int[]{});
+    //     }
+    // }
     static List<Integer> kahnsAlgorithm(List<List<Integer>> graph) {
         int vertices = graph.size();
         int[] inDegree = new int[vertices];
