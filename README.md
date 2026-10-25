@@ -422,6 +422,7 @@ Everyday Solved leetcode questions will be here
 | [0463-island-perimeter](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0743-network-delay-time) |
@@ -460,6 +461,7 @@ Everyday Solved leetcode questions will be here
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0743-network-delay-time) |
@@ -486,6 +488,7 @@ Everyday Solved leetcode questions will be here
 | [0130-surrounded-regions](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0785-is-graph-bipartite) |
@@ -506,6 +509,7 @@ Everyday Solved leetcode questions will be here
 | [0210-course-schedule-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0787-cheapest-flights-within-k-stops) |
