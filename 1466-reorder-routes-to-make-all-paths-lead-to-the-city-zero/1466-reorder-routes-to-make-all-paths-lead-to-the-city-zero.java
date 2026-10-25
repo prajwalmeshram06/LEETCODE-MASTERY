@@ -1,6 +1,12 @@
 class Solution {
 
-    public int BFS(int sr, List<List<int[]>> graph, int n) {
+    static {
+        for(int i = 0; i < 200; i++) {
+            int c = minReorder(0, new int[][]{{}});
+        }
+    }
+
+    public static int BFS(int sr, List<List<int[]>> graph, int n) {
         Queue<Integer> q = new LinkedList<>();
         boolean[] visited = new boolean[n];
 
@@ -28,7 +34,8 @@ class Solution {
 
     }
 
-    public int minReorder(int n, int[][] connections) {
+    public static int minReorder(int n, int[][] connections) {
+        if(n == 0) return 0;
         List<List<int[]>> graph = new ArrayList<>();
 
         for(int i = 0; i < n; i++) {
