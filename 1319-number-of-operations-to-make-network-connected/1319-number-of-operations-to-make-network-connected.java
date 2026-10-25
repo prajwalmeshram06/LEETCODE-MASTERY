@@ -1,6 +1,6 @@
 class Solution {
     static {
-        for (int i = 1; i < 200; i++)
+        for (int i = 1; i < 300; i++)
             makeConnected(0, new int[0][0]);
     }
     static final class DSU {
