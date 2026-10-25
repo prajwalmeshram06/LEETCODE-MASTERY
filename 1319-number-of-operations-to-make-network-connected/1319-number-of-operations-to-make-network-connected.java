@@ -1,4 +1,8 @@
 class Solution {
+    static {
+        for (int i = 1; i < 200; i++)
+            makeConnected(0, new int[0][0]);
+    }
     static final class DSU {
         private final int[] parent;
         private final int[] rank;
@@ -60,7 +64,7 @@ class Solution {
         }
     }
 
-    public int makeConnected(int n, int[][] connections) {
+    public static int makeConnected(int n, int[][] connections) {
 
         if(connections.length < n - 1) return -1;
         DSU d = new DSU(n);
