@@ -52,6 +52,7 @@ Everyday Solved leetcode questions will be here
 | [0931-minimum-falling-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
 | [0983-minimum-cost-for-tickets](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0983-minimum-cost-for-tickets) |
+| [0990-satisfiability-of-equality-equations](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
 | [1027-longest-arithmetic-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1027-longest-arithmetic-subsequence) |
@@ -225,6 +226,7 @@ Everyday Solved leetcode questions will be here
 | [0583-delete-operation-for-two-strings](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0856-score-of-parentheses) |
+| [0990-satisfiability-of-equality-equations](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0990-satisfiability-of-equality-equations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -495,6 +497,7 @@ Everyday Solved leetcode questions will be here
 | [0778-swim-in-rising-water](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
+| [0990-satisfiability-of-equality-equations](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -519,6 +522,7 @@ Everyday Solved leetcode questions will be here
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
+| [0990-satisfiability-of-equality-equations](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
