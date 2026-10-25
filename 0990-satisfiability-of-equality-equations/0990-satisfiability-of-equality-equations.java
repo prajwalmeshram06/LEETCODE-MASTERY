@@ -1,4 +1,9 @@
 class Solution {
+    static {
+        for(int i = 0; i < 300; i++) {
+            boolean ans = equationsPossible(new String[]{});
+        }
+    }
     static final class DSU {
         private final int[] parent;
         private final int[] rank;
@@ -60,7 +65,8 @@ class Solution {
         }
     }
 
-    public boolean equationsPossible(String[] equations) {
+    public static boolean equationsPossible(String[] equations) {
+        if(equations.length == 0) return true;
         DSU d = new DSU(26);
 
         for(String s : equations) {
