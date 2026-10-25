@@ -71,14 +71,9 @@ class Solution {
             int u = edge[0];
             int v = edge[1];
 
-            if(!d.union(u, v)) {
-                ops++;
-            }
+            d.union(u, v);
         }
 
-        int want = d.components();
-
-        if(want - 1 <= ops) return want - 1;
-        return -1;
+        return d.components - 1;
     }
 }
