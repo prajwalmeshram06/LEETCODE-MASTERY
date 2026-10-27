@@ -50,6 +50,7 @@ Everyday Solved leetcode questions will be here
 | [0845-longest-mountain-in-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0845-longest-mountain-in-array) |
 | [0851-loud-and-rich](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0851-loud-and-rich) |
 | [0881-boats-to-save-people](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0881-boats-to-save-people) |
+| [0924-minimize-malware-spread](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0924-minimize-malware-spread) |
 | [0931-minimum-falling-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0948-bag-of-tokens) |
 | [0983-minimum-cost-for-tickets](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0983-minimum-cost-for-tickets) |
@@ -153,6 +154,7 @@ Everyday Solved leetcode questions will be here
 | ------- |
 | [0229-majority-element-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0229-majority-element-ii) |
 | [0740-delete-and-earn](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0740-delete-and-earn) |
+| [0924-minimize-malware-spread](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0924-minimize-malware-spread) |
 | [1027-longest-arithmetic-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1027-longest-arithmetic-subsequence) |
 | [2370-longest-ideal-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2370-longest-ideal-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -437,6 +439,7 @@ Everyday Solved leetcode questions will be here
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
+| [0924-minimize-malware-spread](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0924-minimize-malware-spread) |
 | [0994-rotting-oranges](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -478,6 +481,7 @@ Everyday Solved leetcode questions will be here
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0851-loud-and-rich) |
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
+| [0924-minimize-malware-spread](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0924-minimize-malware-spread) |
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1306-jump-game-iii) |
@@ -501,6 +505,7 @@ Everyday Solved leetcode questions will be here
 | [0778-swim-in-rising-water](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
+| [0924-minimize-malware-spread](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0924-minimize-malware-spread) |
 | [0990-satisfiability-of-equality-equations](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
 | [1267-count-servers-that-communicate](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1267-count-servers-that-communicate) |
@@ -527,6 +532,7 @@ Everyday Solved leetcode questions will be here
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0851-loud-and-rich) |
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
+| [0924-minimize-malware-spread](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0924-minimize-malware-spread) |
 | [0990-satisfiability-of-equality-equations](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
