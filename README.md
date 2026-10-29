@@ -459,6 +459,7 @@ Everyday Solved leetcode questions will be here
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -495,6 +496,7 @@ Everyday Solved leetcode questions will be here
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -518,6 +520,7 @@ Everyday Solved leetcode questions will be here
 | [1584-min-cost-to-connect-all-points](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -551,6 +554,7 @@ Everyday Solved leetcode questions will be here
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
 | [2924-find-champion-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2924-find-champion-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
