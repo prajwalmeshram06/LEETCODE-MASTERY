@@ -1,55 +1,78 @@
 class Solution {
-    static void BFS(int st, List<ArrayList<Integer>> graph, boolean[] visited) {
+    static final class DSU {
+        private final int[] parent;
+        private final int[] rank;
+        private int components;
 
-        Queue<Integer> q = new LinkedList<>();
-
-        visited[st] = true;
-        q.offer(st);
-
-        while (!q.isEmpty()) {
-            int u = q.poll();
-
-            for (int v : graph.get(u)) {
-                if (!visited[v]) {
-                    visited[v] = true;
-                    q.offer(v);
-                }
+        DSU(int size) {
+            if (size < 0) {
+                throw new IllegalArgumentException("Size cannot be negative.");
             }
-        }
-    }
 
-    static List<ArrayList<Integer>> matrixToList(int[][] matrix) {
-        int v = matrix.length;
-        List<ArrayList<Integer>> graph = new ArrayList<>();
+            parent = new int[size];
+            rank = new int[size];
+            components = size;
 
-        for (int i = 0; i < v; i++) {
-            graph.add(new ArrayList<>());
-        }
-
-        for (int i = 0; i < v; i++) {
-            for (int j = 0; j < v; j++) {
-                if (matrix[i][j] == 1) {
-                    graph.get(i).add(j);
-                }
+            for (int i = 0; i < size; i++) {
+                parent[i] = i;
             }
         }
 
-        return graph;
+        int find(int x) {
+            checkVertex(x, parent.length);
+            if (parent[x] != x) {
+                parent[x] = find(parent[x]); // Path compression.
+            }
+            return parent[x];
+        }
+
+        boolean union(int a, int b) {
+            int rootA = find(a);
+            int rootB = find(b);
+
+            if (rootA == rootB) {
+                return false;
+            }
+
+            // Union by rank keeps the trees shallow.
+            if (rank[rootA] < rank[rootB]) {
+                parent[rootA] = rootB;
+            } else if (rank[rootA] > rank[rootB]) {
+                parent[rootB] = rootA;
+            } else {
+                parent[rootB] = rootA;
+                rank[rootA]++;
+            }
+
+            components--;
+            return true;
+        }
+
+        int components() {
+            return components;
+        }
     }
 
+    private static void checkVertex(int vertex, int vertices) {
+        if (vertex < 0 || vertex >= vertices) {
+            throw new IllegalArgumentException(
+                    "Vertex " + vertex + " is outside [0, " + (vertices - 1) + "].");
+        }
+    }
     public int findCircleNum(int[][] isConnected) {
-        List<ArrayList<Integer>> graph = matrixToList(isConnected);
+        int n = isConnected.length;
 
-        boolean[] visited = new boolean[graph.size()];
-        int ans = 0;
+        DSU d = new DSU(n + 1);
 
-        for(int i = 0; i < visited.length; i++) {
-            if(!visited[i]) {
-                ans++;
-                BFS(i, graph, visited);
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < n; j++) {
+                if(isConnected[i][j] == 1) {
+                    d.union(i, j);
+                    d.union(j, i);
+                }
             }
         }
 
-        return ans;
+        return d.components() - 1;
     }
 }
