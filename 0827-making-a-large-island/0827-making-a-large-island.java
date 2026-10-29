@@ -1,9 +1,15 @@
 class Solution {
+    static {
+        for(int i = 0; i < 201; i++) {
+            DFS(0, 0, new int[0][0], new boolean[0][0], 0);
+        }
+    }
 
-    int[] dr = new int[]{-1, 0, 0, 1};
-    int[] dc = new int[]{0, -1, 1, 0};
+    static int[] dr = new int[]{-1, 0, 0, 1};
+    static int[] dc = new int[]{0, -1, 1, 0};
 
-    public int DFS(int sr, int sc, int[][] grid, boolean[][] visited, int k) {
+    public static int DFS(int sr, int sc, int[][] grid, boolean[][] visited, int k) {
+        if(k == 0) return 0;
         int n = grid.length;
         int area = 1;
         visited[sr][sc] = true;
@@ -21,7 +27,7 @@ class Solution {
         return area;
 
     }
-    public int largestIsland(int[][] grid) {
+    public static int largestIsland(int[][] grid) {
         int n = grid.length;
         HashMap<Integer, Integer> map = new HashMap<>();
         boolean visited[][] = new boolean[n][n];
