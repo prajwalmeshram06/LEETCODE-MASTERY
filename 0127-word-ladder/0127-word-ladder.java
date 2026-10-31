@@ -1,46 +1,47 @@
+import java.util.AbstractMap;
+
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        HashSet<String> set = new HashSet<>(wordList);
+        HashSet<String> set = new HashSet<>();
+
+        for(String s : wordList) {
+            set.add(s);
+        }
 
         if(!set.contains(endWord)) return 0;
 
-        Queue<String> q = new ArrayDeque<>();
-        q.offer(beginWord);
-
-        set.remove(beginWord);
-
-        int steps = 1;
+        Queue<Map.Entry<String, Integer>> q = new ArrayDeque<>();
+        q.offer(new AbstractMap.SimpleEntry<>(beginWord, 1));
 
         while(!q.isEmpty()) {
-            int size = q.size();
+            Map.Entry<String, Integer> curr = q.poll();
 
-            while(size-- > 0) {
-                String s = q.poll();
-                char[] arr = s.toCharArray();
+            String s = curr.getKey();
+            int t = curr.getValue();
+            StringBuilder sb = new StringBuilder(s);
 
-                for(int i = 0; i < arr.length; i++) {
-                    char original = arr[i];
+            for(int i = 0; i < sb.length() && i <= 10; i++) {
 
-                    for(char ch = 'a'; ch <= 'z'; ch++) {
-                        if(ch == original) continue;
+                char original = sb.charAt(i);
 
-                        arr[i] = ch;
-                        String n = new String(arr);
+                for(int j = 0; j < 26; j++) {
 
-                        if(n.equals(endWord)) return steps + 1;
+                    if(sb.charAt(i) == (char)(97 + j)) continue;
+                    
+                    sb.setCharAt(i, (char) (97 + j)); 
+                    String n = sb.toString();
 
-                        if(set.remove(n)) {
-                            q.offer(n);
-                        }
+                    if(n.equals(endWord)) return t + 1;
+
+                    if(set.contains(n)) {
+                        q.offer(new AbstractMap.SimpleEntry<>(n, t + 1));
+                        set.remove(n);
                     }
-
-                    arr[i] = original;
                 }
+
+                sb.setCharAt(i, original);
             }
-
-            steps++;
         }
-
-        return 0;
+        return 0;  
     }
 }
