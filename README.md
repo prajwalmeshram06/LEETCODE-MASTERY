@@ -154,6 +154,7 @@ Everyday Solved leetcode questions will be here
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0229-majority-element-ii) |
 | [0740-delete-and-earn](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0740-delete-and-earn) |
 | [0924-minimize-malware-spread](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0924-minimize-malware-spread) |
@@ -228,6 +229,7 @@ Everyday Solved leetcode questions will be here
 | [0032-longest-valid-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0583-delete-operation-for-two-strings) |
@@ -425,6 +427,7 @@ Everyday Solved leetcode questions will be here
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0207-course-schedule) |
@@ -676,4 +679,8 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0778-swim-in-rising-water) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
