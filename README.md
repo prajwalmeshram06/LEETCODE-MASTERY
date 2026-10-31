@@ -154,6 +154,7 @@ Everyday Solved leetcode questions will be here
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0229-majority-element-ii) |
 | [0740-delete-and-earn](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0740-delete-and-earn) |
@@ -229,6 +230,7 @@ Everyday Solved leetcode questions will be here
 | [0032-longest-valid-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0316-remove-duplicate-letters) |
 | [0516-longest-palindromic-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0516-longest-palindromic-subsequence) |
@@ -367,6 +369,7 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0022-generate-parentheses) |
+| [0126-word-ladder-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0126-word-ladder-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0357-count-numbers-with-unique-digits) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 ## Divide and Conquer
@@ -427,6 +430,7 @@ Everyday Solved leetcode questions will be here
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0200-number-of-islands) |
@@ -682,5 +686,6 @@ Everyday Solved leetcode questions will be here
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
