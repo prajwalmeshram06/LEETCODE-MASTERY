@@ -1,47 +1,46 @@
-import java.util.AbstractMap;
-
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        HashSet<String> set = new HashSet<>();
-
-        for(String s : wordList) {
-            set.add(s);
-        }
+        HashSet<String> set = new HashSet<>(wordList);
 
         if(!set.contains(endWord)) return 0;
 
-        Queue<Map.Entry<String, Integer>> q = new ArrayDeque<>();
-        q.offer(new AbstractMap.SimpleEntry<>(beginWord, 1));
+        Queue<String> q = new ArrayDeque<>();
+        q.offer(beginWord);
+
+        set.remove(beginWord);
+
+        int steps = 1;
 
         while(!q.isEmpty()) {
-            Map.Entry<String, Integer> curr = q.poll();
+            int size = q.size();
 
-            String s = curr.getKey();
-            int t = curr.getValue();
-            StringBuilder sb = new StringBuilder(s);
+            while(size-- > 0) {
+                String s = q.poll();
+                char[] arr = s.toCharArray();
 
-            for(int i = 0; i < sb.length() && i <= 10; i++) {
+                for(int i = 0; i < arr.length; i++) {
+                    char original = arr[i];
 
-                char original = sb.charAt(i);
+                    for(char ch = 'a'; ch <= 'z'; ch++) {
+                        if(ch == original) continue;
 
-                for(int j = 0; j < 26; j++) {
+                        arr[i] = ch;
+                        String n = new String(arr);
 
-                    if(sb.charAt(i) == (char)(97 + j)) continue;
-                    
-                    sb.setCharAt(i, (char) (97 + j)); 
-                    String n = sb.toString();
+                        if(n.equals(endWord)) return steps + 1;
 
-                    if(n.equals(endWord)) return t + 1;
-
-                    if(set.contains(n)) {
-                        q.offer(new AbstractMap.SimpleEntry<>(n, t + 1));
-                        set.remove(n);
+                        if(set.remove(n)) {
+                            q.offer(n);
+                        }
                     }
-                }
 
-                sb.setCharAt(i, original);
+                    arr[i] = original;
+                }
             }
+
+            steps++;
         }
-        return 0;  
+
+        return 0;
     }
 }
