@@ -16,11 +16,14 @@ class Solution {
                 int u = current[0];
                 int parent = current[1];
 
+                if(dist[u] * 2 + 1 >= shortest) continue;
+
                 for (int v : graph.get(u)) {
                     if (!visited[v]) {
                         visited[v] = true;
-                        queue.offer(new int[]{v, u});
                         dist[v] = dist[u] + 1;
+                        if(dist[v] >= shortest) continue;
+                        queue.offer(new int[]{v, u});
                     } else if (v != parent) {
                         shortest = Math.min(shortest, dist[v] + dist[u] + 1);
                     }
