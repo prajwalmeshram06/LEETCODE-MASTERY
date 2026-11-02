@@ -473,6 +473,7 @@ Everyday Solved leetcode questions will be here
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -576,6 +577,7 @@ Everyday Solved leetcode questions will be here
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2608-shortest-cycle-in-a-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2608-shortest-cycle-in-a-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2685-count-the-number-of-complete-components) |
 | [2924-find-champion-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2924-find-champion-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
