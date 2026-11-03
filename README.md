@@ -12,6 +12,7 @@ Everyday Solved leetcode questions will be here
 | [0343-integer-break](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0357-count-numbers-with-unique-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 ## Recursion
 |  |
@@ -101,6 +102,7 @@ Everyday Solved leetcode questions will be here
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3693-climbing-stairs-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Dynamic Programming
