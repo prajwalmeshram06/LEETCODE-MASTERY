@@ -506,6 +506,7 @@ Everyday Solved leetcode questions will be here
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0924-minimize-malware-spread) |
 | [1020-number-of-enclaves](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1020-number-of-enclaves) |
+| [1192-critical-connections-in-a-network](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1192-critical-connections-in-a-network) |
 | [1267-count-servers-that-communicate](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -565,6 +566,7 @@ Everyday Solved leetcode questions will be here
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0924-minimize-malware-spread) |
 | [0990-satisfiability-of-equality-equations](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0990-satisfiability-of-equality-equations) |
+| [1192-critical-connections-in-a-network](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -694,4 +696,12 @@ Everyday Solved leetcode questions will be here
 | ------- |
 | [0126-word-ladder-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0127-word-ladder) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
