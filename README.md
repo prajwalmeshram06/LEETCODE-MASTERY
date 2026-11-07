@@ -29,6 +29,7 @@ Everyday Solved leetcode questions will be here
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0229-majority-element-ii) |
@@ -121,6 +122,7 @@ Everyday Solved leetcode questions will be here
 | [0115-distinct-subsequences](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
