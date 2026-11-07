@@ -9,6 +9,7 @@ Everyday Solved leetcode questions will be here
 | [0007-reverse-integer](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0070-climbing-stairs) |
 | [0343-integer-break](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0357-count-numbers-with-unique-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -115,6 +116,7 @@ Everyday Solved leetcode questions will be here
 | [0062-unique-paths](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0120-triangle) |
@@ -635,6 +637,7 @@ Everyday Solved leetcode questions will be here
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Graph Coloring
