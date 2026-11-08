@@ -461,6 +461,7 @@ Everyday Solved leetcode questions will be here
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0827-making-a-large-island) |
+| [0841-keys-and-rooms](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0924-minimize-malware-spread) |
 | [0994-rotting-oranges](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0994-rotting-oranges) |
@@ -509,6 +510,7 @@ Everyday Solved leetcode questions will be here
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0827-making-a-large-island) |
+| [0841-keys-and-rooms](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0851-loud-and-rich) |
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0924-minimize-malware-spread) |
@@ -571,6 +573,7 @@ Everyday Solved leetcode questions will be here
 | [0787-cheapest-flights-within-k-stops](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0851-loud-and-rich) |
 | [0886-possible-bipartition](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0924-minimize-malware-spread) |
