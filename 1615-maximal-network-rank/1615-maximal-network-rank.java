@@ -1,34 +1,30 @@
-
 class Solution {
     public int maximalNetworkRank(int n, int[][] roads) {
-        int[] degree = new int[n];
         boolean[][] connected = new boolean[n][n];
+        int[] indegree = new int[n];
+        int[] outdegree = new int[n];
 
-        int maximal = 0;
-
-        for (int[] road : roads) {
+        for(int[] road : roads) {
             int u = road[0];
             int v = road[1];
 
-            degree[u]++;
-            degree[v]++;
-
             connected[u][v] = true;
             connected[v][u] = true;
+
+            indegree[u]++;
+            indegree[v]++;
+            outdegree[u]++;
+            outdegree[v]++;
         }
 
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                int rank = degree[i] + degree[j];
+        int ans = 0;
 
-                if (connected[i][j]) {
-                    rank--;
-                }
-
-                maximal = Math.max(maximal, rank);
+        for(int i = 0; i < n; i++) {
+            for(int j = i + 1; j < n; j++) {
+                ans = Math.max(ans, indegree[i] + indegree[j] - (connected[i][j] == true ? 1 : 0));
             }
         }
 
-        return maximal;
+        return ans;
     }
 }
