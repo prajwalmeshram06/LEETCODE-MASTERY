@@ -3,59 +3,49 @@ class Solution {
         int n = grid.length;
         int m = grid[0].length;
 
-        int time = 0;
+        Queue<int[]> q = new ArrayDeque<>();
+        boolean[][] visited = new boolean[n][m];
 
-        Queue<int[]> q = new LinkedList<>();
+        int minTime = 0;
 
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
                 if(grid[i][j] == 2) {
                     q.offer(new int[]{i, j, 0});
+                    visited[i][j] = true;
                 }
             }
         }
 
-        boolean[][] visited = new boolean[n][m];
+        int[] dr = new int[]{0, -1, 1, 0};
+        int[] dc = new int[]{-1, 0, 0, 1};
 
         while(!q.isEmpty()) {
-            int[] c = q.poll();
+            int[] curr = q.poll();
+            int sr = curr[0];
+            int sc = curr[1];
+            int t = curr[2];
 
-            int i = c[0];
-            int j = c[1];
-            int t = c[2];
+            for(int i = 0; i < 4; i++) {
+                int nr = sr + dr[i];
+                int nc = sc + dc[i];
+                minTime = t;
 
-            time = Math.max(time, t);
-
-            if(i - 1 >= 0 && !visited[i - 1][j] && grid[i - 1][j] == 1) {
-                q.offer(new int[]{i-1, j, t + 1});
-                grid[i - 1][j] = 2;
-                visited[i - 1][j] = true;
-            }
-            if(i + 1 < n && !visited[i + 1][j] && grid[i + 1][j] == 1) {
-                q.offer(new int[]{i+1, j, t + 1});
-                grid[i + 1][j] = 2;
-                visited[i + 1][j] = true;
-            }
-            if(j - 1 >= 0 && !visited[i][j - 1] && grid[i][j - 1] == 1) {
-                q.offer(new int[]{i, j - 1, t + 1});
-                grid[i][j - 1] = 2;
-                visited[i][j - 1] = true;
-            }
-            if(j + 1 < m && !visited[i][j + 1] && grid[i][j + 1] == 1) {
-                q.offer(new int[]{i, j + 1, t + 1});
-                grid[i][j + 1] = 2;
-                visited[i][j + 1] = true;
+                if(nr >= 0 && nr < n && nc >= 0 && nc < m && grid[nr][nc] == 1 && !visited[nr][nc]) {
+                    visited[nr][nc] = true;
+                    q.offer(new int[]{nr, nc, t + 1});
+                }
             }
         }
 
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
-                if(grid[i][j] == 1 && !visited[i][j]) {
+                if(!visited[i][j] && grid[i][j] == 1) {
                     return -1;
                 }
             }
         }
 
-        return time;
+        return minTime;
     }
 }
