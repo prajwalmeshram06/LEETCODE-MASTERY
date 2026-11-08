@@ -1,49 +1,40 @@
 class Solution {
-    static {
-        for (int i = 0; i < 200; i++) {
-            shortestPathBinaryMatrix(new int[0][0]);
-        }
-    }
-    public static int shortestPathBinaryMatrix(int[][] grid) {
+    public int shortestPathBinaryMatrix(int[][] grid) {
         int n = grid.length;
+        int m = grid[0].length;
 
-        if(n == 0) return -1;
+        if(grid[0][0] == 1 || grid[n - 1][m - 1] == 1) return -1;
 
-        if(grid[0][0] == 1 || grid[n - 1][n - 1] == 1) {
-            return -1;
-        }
+        int[] dr = new int[]{-1, -1, -1, 0, 0, 1, 1, 1};
+        int[] dc = new int[]{-1, 0, 1, -1, 1, 1, 0, -1};
 
-        int[] dr = new int[] {-1, -1, -1, 0, 0, 1, 1, 1} ;
-        int[] dc = new int[] {-1, 0, 1, -1, 1, -1, 0, 1};
+        Queue<int[]> q = new ArrayDeque<>();
+        boolean[][] visited = new boolean[n][m];
 
-        Queue<int[]> q = new LinkedList<>();
-        boolean[][] visited = new boolean[n][n];
-
-        q.offer(new int[] {0, 0, 1});
+        q.offer(new int[]{0, 0, 1});
         visited[0][0] = true;
 
         while(!q.isEmpty()) {
             int[] curr = q.poll();
 
-            int r = curr[0];
-            int c = curr[1];
-            int dist = curr[2];
+            int sr = curr[0];
+            int sc = curr[1];
+            int d = curr[2];
 
-            if(r == n - 1 && c == n - 1) {
-                return dist;
-            }
+            if(sr == n - 1 && sc == m - 1) return d;
 
-            for(int k = 0; k < 8; k++) {
-                int nr = r + dr[k];
-                int nc = c + dc[k];
+            for(int i = 0; i < 8; i++) {
+                int nr = sr + dr[i];
+                int nc = sc + dc[i];
 
-                if(nr >= 0 && nr < n && nc >= 0 && nc < n && grid[nr][nc] == 0 && !visited[nr][nc]) {
+                if(nr >= 0 && nr < n && nc >= 0 && nc < m && !visited[nr][nc] && grid[nr][nc] == 0) {
+                    if(nr == n - 1 && nc == m - 1) return d + 1;
                     visited[nr][nc] = true;
-                    q.offer(new int[] {nr, nc, dist + 1});
+                    q.offer(new int[]{nr, nc, d + 1});
                 }
             }
-
         }
+
         return -1;
     }
 }
