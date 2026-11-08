@@ -13,6 +13,7 @@ Everyday Solved leetcode questions will be here
 | [0343-integer-break](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0357-count-numbers-with-unique-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [2101-detonate-the-maximum-bombs](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2101-detonate-the-maximum-bombs) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 ## Recursion
@@ -88,6 +89,7 @@ Everyday Solved leetcode questions will be here
 | [2050-parallel-courses-iii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2050-parallel-courses-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2101-detonate-the-maximum-bombs](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2101-detonate-the-maximum-bombs) |
 | [2126-destroying-asteroids](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2126-destroying-asteroids) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -478,6 +480,7 @@ Everyday Solved leetcode questions will be here
 | [1905-count-sub-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -523,6 +526,7 @@ Everyday Solved leetcode questions will be here
 | [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -589,6 +593,7 @@ Everyday Solved leetcode questions will be here
 | [1615-maximal-network-rank](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1615-maximal-network-rank) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2050-parallel-courses-iii) |
+| [2101-detonate-the-maximum-bombs](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -719,4 +724,8 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1192-critical-connections-in-a-network) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
