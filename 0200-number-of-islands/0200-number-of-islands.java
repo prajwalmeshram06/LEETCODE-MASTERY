@@ -1,32 +1,34 @@
 class Solution {
 
-    public void DFS(int i, int j, boolean[][] visited, char[][] grid, int n, int m) {
+    int[] dr = new int[]{-1, 0, 0, 1};
+    int[] dc = new int[]{0, -1, 1, 0};
 
-        if(i < 0 || j < 0 || i >= n || j >= m || grid[i][j] == '0' || visited[i][j]) {
-            return;
-        }
-
-        visited[i][j] = true;
-
-        DFS(i, j - 1, visited, grid, n, m);
-        DFS(i, j + 1, visited, grid, n, m);
-        DFS(i - 1, j, visited, grid, n, m);
-        DFS(i + 1, j, visited, grid, n, m);
-
-    } 
-    public int numIslands(char[][] grid) {
+    public void DFS(char[][] grid, int sr, int sc) {
         int n = grid.length;
         int m = grid[0].length;
 
+        grid[sr][sc] = '0';
+
+        for(int i = 0; i < 4; i++) {
+            int nr = sr + dr[i];
+            int nc = sc + dc[i];
+
+            if(nr >= 0 && nr < n && nc >= 0 && nc < m && grid[nr][nc] == '1') {
+                DFS(grid, nr, nc);
+            }
+        }
+    }
+    public int numIslands(char[][] grid) {
         int islands = 0;
 
-        boolean[][] visited = new boolean[n][m]; 
+        int n = grid.length;
+        int m = grid[0].length;
 
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
-                if(!visited[i][j] && grid[i][j] == '1') {
-                    DFS(i, j, visited, grid, n, m);
+                if(grid[i][j] == '1') {
                     islands++;
+                    DFS(grid, i, j);
                 }
             }
         }
