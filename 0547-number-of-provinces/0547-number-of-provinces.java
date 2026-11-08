@@ -1,40 +1,36 @@
 class Solution {
-    static final class DSU {
-        private final int[] parent;
-        private final int[] rank;
-        private int components;
+    class DSU {
+        int component;
+        int[] rank;
+        int[] parent;
 
-        DSU(int size) {
-            if (size < 0) {
-                throw new IllegalArgumentException("Size cannot be negative.");
-            }
+        DSU(int n) {
+            rank = new int[n];
+            parent = new int[n];
 
-            parent = new int[size];
-            rank = new int[size];
-            components = size;
+            component = n;
 
-            for (int i = 0; i < size; i++) {
+            for(int i = 0; i < n; i++) {
                 parent[i] = i;
             }
         }
 
-        int find(int x) {
-            checkVertex(x, parent.length);
-            if (parent[x] != x) {
-                parent[x] = find(parent[x]); // Path compression.
+        public int find(int x) {
+            if(parent[x] != x) {
+                parent[x] = find(parent[x]);
             }
+
             return parent[x];
         }
 
-        boolean union(int a, int b) {
+        public boolean union(int a, int b) {
             int rootA = find(a);
             int rootB = find(b);
 
-            if (rootA == rootB) {
+            if(rootA == rootB) {
                 return false;
             }
 
-            // Union by rank keeps the trees shallow.
             if (rank[rootA] < rank[rootB]) {
                 parent[rootA] = rootB;
             } else if (rank[rootA] > rank[rootB]) {
@@ -44,35 +40,29 @@ class Solution {
                 rank[rootA]++;
             }
 
-            components--;
+            component--;
             return true;
         }
 
-        int components() {
-            return components;
+        public int components() {
+            return component;
         }
     }
 
-    private static void checkVertex(int vertex, int vertices) {
-        if (vertex < 0 || vertex >= vertices) {
-            throw new IllegalArgumentException(
-                    "Vertex " + vertex + " is outside [0, " + (vertices - 1) + "].");
-        }
-    }
+
     public int findCircleNum(int[][] isConnected) {
         int n = isConnected.length;
 
-        DSU d = new DSU(n + 1);
+        DSU d = new DSU(n);
 
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < n; j++) {
                 if(isConnected[i][j] == 1) {
                     d.union(i, j);
-                    d.union(j, i);
                 }
             }
         }
 
-        return d.components() - 1;
+        return d.components();
     }
 }
