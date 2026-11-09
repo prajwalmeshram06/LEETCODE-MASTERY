@@ -79,6 +79,7 @@ Everyday Solved leetcode questions will be here
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1306-jump-game-iii) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1584-min-cost-to-connect-all-points) |
 | [1626-best-team-with-no-conflicts](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1626-best-team-with-no-conflicts) |
 | [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
@@ -269,6 +270,7 @@ Everyday Solved leetcode questions will be here
 | [0778-swim-in-rising-water](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [2285-maximum-total-importance-of-roads](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2285-maximum-total-importance-of-roads) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -349,6 +351,7 @@ Everyday Solved leetcode questions will be here
 | [1267-count-servers-that-communicate](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1267-count-servers-that-communicate) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1765-map-of-highest-peak) |
 | [1905-count-sub-islands](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1905-count-sub-islands) |
@@ -474,6 +477,7 @@ Everyday Solved leetcode questions will be here
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1306-jump-game-iii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1765-map-of-highest-peak) |
@@ -586,6 +590,7 @@ Everyday Solved leetcode questions will be here
 | [1192-critical-connections-in-a-network](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -648,6 +653,7 @@ Everyday Solved leetcode questions will be here
 | [0743-network-delay-time](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/3620-network-recovery-pathways) |
@@ -673,6 +679,7 @@ Everyday Solved leetcode questions will be here
 | [0743-network-delay-time](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Bellman–Ford Algorithm
@@ -706,6 +713,7 @@ Everyday Solved leetcode questions will be here
 ## 0-1 BFS
 |  |
 | ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Minimax
 |  |
