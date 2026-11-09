@@ -44,6 +44,7 @@ Everyday Solved leetcode questions will be here
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0493-reverse-pairs) |
+| [0518-coin-change-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0646-maximum-length-of-pair-chain) |
@@ -136,6 +137,7 @@ Everyday Solved leetcode questions will be here
 | [0376-wiggle-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0646-maximum-length-of-pair-chain) |
@@ -739,4 +741,12 @@ Everyday Solved leetcode questions will be here
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/2101-detonate-the-maximum-bombs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/prajwalmeshram06/LEETCODE-MASTERY/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
