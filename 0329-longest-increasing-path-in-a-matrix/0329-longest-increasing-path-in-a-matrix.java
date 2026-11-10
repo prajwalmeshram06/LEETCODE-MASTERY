@@ -1,45 +1,43 @@
 class Solution {
-    int[] dr = new int[]{-1, 0, 0, 1};
-    int[] dc = new int[]{0, -1, 1, 0};
-
-    public int DFS(int[][] grid, int sr, int sc, int[][] dp) {
-        int n = grid.length; 
+    public int DFS(int sr, int sc, int[][] grid, int[][] dp) {
+        int n = grid.length;
         int m = grid[0].length;
+        int[] dr = new int[]{-1, 0, 0, 1};
+        int[] dc = new int[]{0, -1, 1, 0};
 
-        if(dp[sr][sc] != -1) {
+        int maxCount = 1;
+
+        if(dp[sr][sc] != 0) {
             return dp[sr][sc];
-        }
+        } else {
+            for (int i = 0; i < 4; i++) {
+                int nr = sr + dr[i];
+                int nc = sc + dc[i];
 
-        int len = 1;
-        for(int i = 0; i < 4; i++) {
-            int nr = sr + dr[i];
-            int nc = sc + dc[i];
-
-            if(nr >= 0 && nr < n && nc >= 0 && nc < m && (grid[nr][nc] > grid[sr][sc])) {
-                len = Math.max(len, 1 + DFS(grid, nr, nc, dp));
+                if (nr >= 0 && nr < n && nc >= 0 && nc < m && grid[sr][sc] < grid[nr][nc]) {
+                    maxCount = Math.max(maxCount, 1 + DFS(nr, nc, grid, dp));
+                }
             }
         }
 
-        return dp[sr][sc] = len;
+        dp[sr][sc] = maxCount;
+
+        return maxCount;
     }
 
-    public int longestIncreasingPath(int[][] matrix) {
-        int n = matrix.length;
-        int m = matrix[0].length;
+    public int longestIncreasingPath(int[][] grid) {
+        int n = grid.length;
+        int m = grid[0].length;
+        int maxLen = 1;
         int[][] dp = new int[n][m];
-        for(int i = 0; i < n; i++) {
-            Arrays.fill(dp[i], -1);
-        }
 
-        int ans = 0;
-        
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < m; j++) {
-                int len = DFS(matrix, i, j, dp);
-                ans = Math.max(ans, len);
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                int len = DFS(i, j, grid, dp);
+                maxLen = Math.max(maxLen, len);
             }
         }
 
-        return ans;
+        return maxLen;
     }
 }
